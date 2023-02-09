@@ -10,4 +10,4 @@ A crossplatform engine to be written in rust/c++ with the goal of prototyping gr
 ### unlikely
 * Mac
 ## Status
-* This readme is as long than the amount of code the engine has, i'd even say it is infinitely times longer
+* This readme is as long than the amount of code the engine has, ~~i'd even say it is infinitely times longer~~ nvm i've added as much good rust code as i could.
